@@ -1,4 +1,6 @@
 # Code_test
+레벨이 명시되지 않은 것은 level-2 이하
+
 ## Greedy
  - maxNumber(큰 수 만들기)
  - rescue(구명보트)
@@ -15,7 +17,7 @@
 ## kakao
  - crane(크레인 인형뽑기 게임)
  - failRatio(실패율)
- - lockerAndKey(자물쇠와 열쇠)
+ - lockerAndKey(자물쇠와 열쇠) - lv3
 
 ## basic
  - watermelon(수박수박수?)
