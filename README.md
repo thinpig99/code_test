@@ -1,5 +1,5 @@
 # Code_test
-레벨이 명시되지 않은 것은 level-2 이하
+lv3 
 
 ## Greedy
  - maxNumber(큰 수 만들기)
