@@ -1,2 +1,8 @@
-# code_test
-Code Test
+# Code_test
+## Greedy
+
+## Stack, Queue
+
+## ES(Exhaustive Search)
+
+##
