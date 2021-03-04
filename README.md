@@ -19,6 +19,7 @@
  - lockerAndKey(자물쇠와 열쇠) - ★★★
  - menuRenewal(메뉴 리뉴얼) - ★★
 
-## basic
+## etc
  - watermelon(수박수박수?) - ★
  - maskingNumber(핸드폰 번호 가리기) - ★
+ - balloon(풍선 터트리기) - ★★★
