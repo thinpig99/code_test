@@ -4,6 +4,7 @@
  - maxNumber(큰 수 만들기) - ★★
  - rescue(구명보트) - ★★
  - traningSuit(체육복) - ★
+ - islandBridge(섬 연결하기) - ★★★
 
 ## Stack, Queue
  - printer(프린터) - ★★
