@@ -10,6 +10,9 @@
  - printer(프린터) - ★★
  - truck(다리를 지나는 트럭) - ★★
 
+## DFS, BFS
+ - tartgetNumber(타겟넘버) - ★★
+
 ## ES(Exhaustive Search)
  - exam(모의고사) - ★
  - carpet(카펫) - ★★
