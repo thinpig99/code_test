@@ -9,6 +9,7 @@
 ## Stack, Queue
  - printer(프린터) - ★★
  - truck(다리를 지나는 트럭) - ★★
+ - funcDeveloper(기능개발) - ★★
 
 ## DFS, BFS
  - tartgetNumber(타겟넘버) - ★★
@@ -27,3 +28,4 @@
  - watermelon(수박수박수?) - ★
  - maskingNumber(핸드폰 번호 가리기) - ★
  - balloon(풍선 터트리기) - ★★★
+ - skillTree(스킬트리) - ★★
