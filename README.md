@@ -25,6 +25,7 @@
  - lockerAndKey(자물쇠와 열쇠) - ★★★
  - menuRenewal(메뉴 리뉴얼) - ★★
  - secretMap(비밀지도) - ★
+ - keypadTouch(키패드 누르기) - ★
 
 ## etc
  - skillTree(스킬트리) - ★★
