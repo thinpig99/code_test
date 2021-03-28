@@ -16,6 +16,9 @@
 ## sorting
  - balloon(풍선 터트리기) - ★★★
 
+## hash
+- disguise(위장) - ★★
+
 ## ES(Exhaustive Search)
  - carpet(카펫) - ★★
 
