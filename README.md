@@ -29,6 +29,7 @@
  - menuRenewal(메뉴 리뉴얼) - ★★
  - secretMap(비밀지도) - ★
  - keypadTouch(키패드 누르기) - ★
+ - dartScore(다트 게임) - ★
 
 ## etc
  - skillTree(스킬트리) - ★★
