@@ -18,6 +18,7 @@
 
 ## hash
 - disguise(위장) - ★★
+- phoneNumber(전화번호 목록) - ★★
 
 ## ES(Exhaustive Search)
  - carpet(카펫) - ★★
